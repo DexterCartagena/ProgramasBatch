@@ -1,0 +1,9 @@
+@echo off
+Title Nombre y Apellidos
+set/p nombre=Cual es tu nombre? :
+set/p Apellido=Cual es tu Primer Apellido? :
+set/p Apellido2=Cual es tu Segundo Apellido? :
+echo.
+echo Tu nombre completo es %nombre% %apellido% %Apellido2%
+pause>nul
+EXIT

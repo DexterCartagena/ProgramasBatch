@@ -1,0 +1,8 @@
+@echo off
+Title EJERCICIOS BATCH
+Date
+CLS
+Time 
+CLS
+PAUSE
+EXIT

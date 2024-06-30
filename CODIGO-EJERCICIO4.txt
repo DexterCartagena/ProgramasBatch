@@ -1,0 +1,22 @@
+@echo off
+color b5
+Title DATOS PERSONALES
+set/p nombre=Cual es tu nombre? : 
+echo.
+cls
+pause>nul 
+set/p edad=Cuantos años tienes? : 
+echo.
+cls
+pause>nul
+set/p lugar=Lugar de Residencia: 
+echo.
+cls
+pause>nul
+echo Tu nombre es: %nombre%
+echo.
+echo Tu edad es: %edad%
+echo.
+echo Tu lugar de residencia es: %lugar%
+pause>nul 
+exit

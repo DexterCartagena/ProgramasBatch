@@ -1,0 +1,11 @@
+@echo off
+Title Operaciones basicas
+set/p suma1=Primer Caracter...............
+echo                           +
+set/p suma2=Segundo Caracter..............
+echo                           ___________
+set/a suma3=%suma1%+%suma2%
+echo resultado:                    %suma3%
+echo Ha realizado una operacion basica
+pause>nul
+exit

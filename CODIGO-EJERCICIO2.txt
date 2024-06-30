@@ -1,0 +1,12 @@
+@echo off 
+Title MI PRIMER PROGRAMA
+Echo.
+Echo HOLA!! SOY DE 3ER SEMESTRE - ING DE SISTEMAS
+Echo.
+Pause
+cls
+echo.
+echo ESPERO QUE LES GUSTE
+echo.
+pause>nul
+exit

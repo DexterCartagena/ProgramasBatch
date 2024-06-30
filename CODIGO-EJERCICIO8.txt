@@ -1,0 +1,16 @@
+@echo off
+color b5
+echo =======================================================
+echo =                                                     =
+echo =                                                     =
+echo =           ======================                    =        
+echo =        == INGENIERIA DE SISTEMAS ==                 =
+echo =           ======================                    =
+echo =                                                     =
+echo =                                                     =
+echo =======================================================
+echo.
+echo.
+echo ESTO ESTA PERSONALIZADO, PARA SALIR PRESIONE UNA TECLA.
+pause>nul
+exit

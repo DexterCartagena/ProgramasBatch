@@ -1,0 +1,13 @@
+@echo off
+Title OPERACIONES BASICAS
+set/p num1=Ingrese un numero: 
+echo.
+pause>nul
+set/p num2=Ingrese el segundo numero: 
+echo.
+pause>nul
+set/a suma= (%num1%+%num2%)
+echo.
+echo La suma es: %suma%
+pause>nul
+exit
